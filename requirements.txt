@@ -1,0 +1,7 @@
+certifi==2023.5.7
+geojson==3.0.1
+numpy==1.24.3
+pyproj==3.5.0
+scipy==1.10.1
+shapely==2.0.1
+turfpy==0.0.7
